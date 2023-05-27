@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/SoaringCrane/static/css/main.bae3c310.css",
-    "main.js": "/SoaringCrane/static/js/main.51ecbca2.js",
+    "main.css": "/SoaringCrane/static/css/main.51f1251b.css",
+    "main.js": "/SoaringCrane/static/js/main.d7e80d19.js",
     "static/js/787.914f7109.chunk.js": "/SoaringCrane/static/js/787.914f7109.chunk.js",
     "static/media/catering.png": "/SoaringCrane/static/media/catering.1b1103127f76b416ba33.png",
     "static/media/order2.png": "/SoaringCrane/static/media/order2.923dd9ca2e6ddf52aa36.png",
@@ -10,12 +10,12 @@
     "static/media/about.png": "/SoaringCrane/static/media/about.10f1d32fe5ce5587d65b.png",
     "static/media/logo.png": "/SoaringCrane/static/media/logo.4d62eae7fa75bdf20f2c.png",
     "index.html": "/SoaringCrane/index.html",
-    "main.bae3c310.css.map": "/SoaringCrane/static/css/main.bae3c310.css.map",
-    "main.51ecbca2.js.map": "/SoaringCrane/static/js/main.51ecbca2.js.map",
+    "main.51f1251b.css.map": "/SoaringCrane/static/css/main.51f1251b.css.map",
+    "main.d7e80d19.js.map": "/SoaringCrane/static/js/main.d7e80d19.js.map",
     "787.914f7109.chunk.js.map": "/SoaringCrane/static/js/787.914f7109.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bae3c310.css",
-    "static/js/main.51ecbca2.js"
+    "static/css/main.51f1251b.css",
+    "static/js/main.d7e80d19.js"
   ]
 }
